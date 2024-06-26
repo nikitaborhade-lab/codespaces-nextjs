@@ -14,6 +14,8 @@ function Home(){
     <Link href = '/blog'>Blog Page</Link>
     <Link href= '/product'>Product Page</Link>
     <button onClick={handleClick}>Place Order</button>
+    <hr/>
+    <Link href = '/posts'>Posts</Link>
     </div>
   )
 }
